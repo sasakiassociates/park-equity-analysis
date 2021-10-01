@@ -20,7 +20,7 @@ The results from the analysis includes spatial clusters identifying Census Block
 ![Park Access Clusters by Park Acreage/1000 Capita: Boston](Img/CaseStudyMaps_Boston_Export2.png)
 
 ## PyQGIS and RGeoda
-The codes for this were written sometime in 2018 and may be outdated given that RGeoda has had a lot of updates since. We aren't actively updating the code, but would love to hear from you if you end up using it!
+The codes for this were written sometime in 2019 and may be outdated given that RGeoda has had a lot of updates since. We aren't actively updating the code, but would love to hear from you if you end up using it!
 
 ### SummarizeLocation_Step2.py
 This is the PyQGIS script used for step 2: calculating park acreage/1000 capita.
