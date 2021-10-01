@@ -1,6 +1,7 @@
 ### Install C bindings for geoda in R, must have Geoda installed on $PATH
 ### Pulled from here https://github.com/lixun910/rgeoda
 ### 10-16-2019
+### Other contributors to this document: Kyle Monahan, Senior Data Science Specialist, Tufts University
 
 ### Main Resource (v0.0.3): https://rgeoda.github.io/rgeoda-book/load-spatial-data.html
 ###v0.0.4: https://mybinder.org/v2/gh/lixun910/rgeoda_tutorial/v0.0.4
