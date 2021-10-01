@@ -22,4 +22,8 @@ The results from the analysis includes spatial clusters identifying Census Block
 ## PyQGIS and RGeoda
 The codes for this were written sometime in 2018 and may be outdated given that RGeoda has had a lot of updates since. We aren't actively updating the code, but would love to hear from you if you end up using it!
 
-Coming soon!
+SummarizeLocation_Step2.py
+This is the PyQGIS script used for step 2: calculating park acreage/1000 capita.
+
+RGeoda_LocalMoran_ParkEquity.R
+This is the R script using RGeoda to run the Univariate Local Moran's I analysis to determine low/high park access areas and generate summary statistics.
